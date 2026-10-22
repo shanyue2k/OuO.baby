@@ -1,0 +1,18 @@
+# Windows thumbnail caches
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on shared drives
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+
+# Editor directories
+.vscode/
+.idea/
